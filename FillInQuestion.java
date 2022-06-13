@@ -1,7 +1,5 @@
 /**
  * This is a FillInQuestion object and its various properties and methods
- *
- * @author png07
  */
 public class FillInQuestion extends Question {
     /**
