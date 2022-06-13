@@ -1,8 +1,5 @@
 /**
  * This is a Question object with its various properties and methods
- *
- * @author png07
- *
  */
 public class Question {
 	//Properties of Question object
