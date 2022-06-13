@@ -2,8 +2,6 @@ import java.util.ArrayList;
 
 /**
  * This is a MultiChoiceQuestion object and its various properties and methods
- *
- * @author png07
  */
 public class MultiChoiceQuestion extends Question{
     //Instance data
