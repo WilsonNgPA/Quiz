@@ -1,7 +1,5 @@
 /**
  * This is a NumericQuestion object and its various properties and methods
- *
- * @author png07
  */
 public class NumericQuestion extends Question {
     //Instance data
