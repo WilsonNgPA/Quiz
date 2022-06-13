@@ -2,8 +2,6 @@ import javax.swing.plaf.multi.MultiOptionPaneUI;
 
 /**
  * This is a tester for the quiz and question object
- *
- * @author png07
  */
 public class QuizTime {
 	public static void main(String[] args) {
