@@ -3,8 +3,6 @@ import java.util.Scanner;
 
 /**
  * This is a Quiz object with its various properties and methods
- *
- * @author png07
  */
 public class Quiz {
 	//Properties of quiz object
